@@ -1,4 +1,4 @@
-# Digital Store
+# Digital Store (Still on Development)
 
 ## Getting Started
 
@@ -16,6 +16,3 @@ bun dev
 
 ## Screen Captured
 ![Landing](/public/land.png)
-
-
-`This Project is still on Development!`
