@@ -14,4 +14,8 @@ pnpm dev
 bun dev
 ```
 
+## Screen Captured
+![Landing](/public/landing.png)
+
+
 `This Project is still on Development!`
