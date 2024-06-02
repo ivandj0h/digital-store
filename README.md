@@ -15,7 +15,7 @@ bun dev
 ```
 
 ## Screen Captured
-![Landing](/public/landing.png)
+![Landing](/public/land.png)
 
 
 `This Project is still on Development!`
