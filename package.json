@@ -22,7 +22,7 @@
     "express": "^5.2.1",
     "lucide-react": "^0.383.0",
     "next": "15.5.25",
-    "payload": "^3.79.1",
+    "payload": "^3.90.0",
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.3.0",
