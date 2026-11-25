@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@payloadcms/bundler-webpack": "^1.0.6",
-    "@payloadcms/db-mongodb": "^3.12.0",
+    "@payloadcms/db-mongodb": "^3.87.0",
     "@payloadcms/richtext-slate": "^3.94.1",
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-separator": "^1.0.3",
